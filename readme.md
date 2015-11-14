@@ -1,0 +1,1 @@
+Censorify censors words out of text
